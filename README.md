@@ -46,7 +46,7 @@ Deepfakes, móviles, tarjetas de crédito como Privacy, alquileres, contratos de
 <h1>Email</h1>
 <li><a href="https://hunter.io/"> Hunter.io</a></li>
 <li><a href="https://www.voilanorbert.com/"> VoilaNorbert</a></li>
-<li><a href="hhttps://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en"> Clearbit Connect</a></li>
+<li><a href="https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en"> Clearbit Connect</a></li>
 
 <h1>Contraseñas</h1>
 <li><a href="https://haveibeenpwned.com/"> Have I Been Pwnd</a></li>
