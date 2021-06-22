@@ -1,12 +1,11 @@
 # Recursos-OSINT
-Recopilación de diferentes herramientas para recopilar información disponible en la red.
+Diferentes métodos y herramientas para recopilar información disponible en la red.
 
 <div> Salvo que se indique específicamente la información está en inglés.
   <br>
 Recopilación en progreso, cualquier sugerencia es bienvenida
   </div>
 <h1>Guías</h1>
-Guía muy buena.
 <li><a href="https://www.reddit.com/r/OSINT/comments/e78he1/osint_for_beginners_part_1_introduction/">OSINT for begginers</a> Muy buena guía de iniciación</li>
 
 <h1>Frameworks</h1>
