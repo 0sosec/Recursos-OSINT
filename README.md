@@ -3,18 +3,18 @@ Recopilación de diferentes herramientas para recopilar información disponible 
 
 <div> Salvo que se indique específicamente la información está en inglés.
   <br>
-Recopilación en progreso, cualquier sugerencia es bienvenida.</div>
+Recopilación en progreso, cualquier sugerencia es bienvenida
+  </div>
+<h1>Guías</h1>
+Guía muy buena.
+<li><a href="https://www.reddit.com/r/OSINT/comments/e78he1/osint_for_beginners_part_1_introduction/">OSINT for begginers</a> Muy buena guía de iniciación</li>
 
-<h2>Frameworks</h2>
+<h1>Frameworks</h1>
 <li><a href="https://osintframework.com/">OSINT Framework</a> Válido como guía, checklist, fuente de herramientas... Aquí hay de todo.</li>
 <li><a href="https://www.maltego.com/">Maltego</a> Framework muy completo con todo un set de herramientas.</li>
 
-
 <h1>Identidades</h1>
 <h2>Metodología</h2>
-<li><a href="https://osintframework.com/">OSINT Framework</a> Válido como guía, checklist, fuente de herramientas... Aquí hay de todo.</li>
-<li><a href="https://osintframework.com/">OSINT Framework</a> Válido como guía, checklist, fuente de herramientas... Aquí hay de todo.</li>
-
 <li><a href="https://jakecreps.com/sock-puppets/">Creating an Effective Sock Puppet for OSINT Investigations</a> Guía sencilla e introductoria de cara a crear identidades online.</li>
 
 <li><a href="https://www.secjuice.com/the-art-of-the-sock-osint-humint/">The Art Of The Sock</a> No se extiende mucho pero da unas pinceladas con posibles metodologías.</li>
